@@ -167,11 +167,7 @@ const Seller = () => {
        setpieChartOptions(options);
     }, []);
 
-      // const toast = useRef(null);
-
-    // const onUpload = () => {
-    //     toast.current.show({ severity: 'info', summary: 'Success', detail: 'File Uploaded' });
-    // };
+     
 
    const handleSubmit = async (e) => {
   e.preventDefault();
