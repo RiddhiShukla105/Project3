@@ -3,7 +3,7 @@
     font-size: 5rem;
     font-weight: bolder;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: url('/img/bg1.jpg');
+    background-image: url('../../public/img/bg1.jpg');
     padding:3%;
     width: 100%;
     background-size:cover;
